@@ -1,14 +1,8 @@
 # cljs-intro
 
-A Clojure library designed to ... well, that part is up to you.
+https://github.com/emezeske/lein-cljsbuild
+http://www.myclojureadventure.com/2012/09/intro-to-clojurescript-getting-started.html
 
-## Usage
+lein cljsbuild once
 
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+lein cljsbuild auto
